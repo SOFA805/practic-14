@@ -24,7 +24,7 @@ namespace go1
     {
         public override string Draw()
         {
-            return "Рисую треугольник"
+            return "Рисую треугольник";
         }
     }
 }
